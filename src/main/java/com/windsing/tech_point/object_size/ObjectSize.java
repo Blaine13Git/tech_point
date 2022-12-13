@@ -1,4 +1,4 @@
-package com.windsing.tech_point.ObjectSize;
+package com.windsing.tech_point.object_size;
 
 import org.apache.lucene.util.RamUsageEstimator;
 

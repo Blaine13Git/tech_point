@@ -1,4 +1,4 @@
-package com.windsing.tech_point.ObjectInit;
+package com.windsing.tech_point.object_init;
 
 public class ObjectInit {
 

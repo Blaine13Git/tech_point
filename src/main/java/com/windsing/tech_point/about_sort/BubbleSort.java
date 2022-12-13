@@ -1,10 +1,11 @@
-package com.windsing.tech_point.Sort;
+package com.windsing.tech_point.about_sort;
 
 import java.util.Arrays;
 import java.util.Date;
-import java.util.Timer;
-import java.util.concurrent.TimeUnit;
 
+/**
+ * 冒泡排序
+ */
 public class BubbleSort {
     public static void main(String[] args) {
 
