@@ -1,7 +1,5 @@
 package com.windsing.tech_point.about_collection;
 
-import org.openjdk.jol.vm.VM;
-
 import java.util.*;
 
 public class AboutCollection {
